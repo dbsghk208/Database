@@ -11,3 +11,12 @@
   
 </details>  
 
+
+
+<details>
+  
+  <summary>SQLD</summary>
+  
+  - [이론](https://github.com/dbsghk208/Database/blob/main/SQLD/%EC%9D%B4%EB%A1%A0.md)
+  
+</details>  
