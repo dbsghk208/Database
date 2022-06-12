@@ -28,7 +28,7 @@ getPersonProfile(위의 함수를 담고 있음)
 
 프로퍼티는 object 를 위해서 데이터를 저장한다.  
 메소드는 object 가 요청 받을 수 있는 액션  
-<br>
+<br><br>
 
 
 ```jsx
@@ -43,7 +43,10 @@ html 문서 안에서 **class 가 attribute 를 의미**하지만
 <Attribute  와 property  구분하는 차이점>  
 
 attribute 는  html document    
-property 는  html Dom tree 안에서 존재합니다.  
+property 는  html Dom tree 안에서 존재한다.  
+<br>
+
+
 이것이 뜻하는 것   
 attribute 는 정적으로 변하지 않고 ,   
 property 는 동적으로 그 값이 변할 수 있다는 것 내포  
