@@ -35,20 +35,15 @@ getPersonProfile(위의 함수를 담고 있음)
 <div class = 'my-class'> </div> 
 ```
 
-className  이  property 가 되는것
+className  이  property 가 되는것  
+html 문서 안에서 **class 가 attribute 를 의미**하지만    
+**html DOM  안에서는 property  의미**한다.  
+<br><br>
 
-html 문서 안에서 **class 가 attribute 를 의미**하지만  
+<Attribute  와 property  구분하는 차이점>  
 
-**html DOM  안에서는 property  의미**한다.
-
- Attribute  와 property  구분하는 차이점
-
-attribute 는  html document  
-
-property 는  html Dom tree 안에서 존재합니다.
-
-이것이 뜻하는 것 
-
-attribute 는 정적으로 변하지 않고 , 
-
-property 는 동적으로 그 값이 변할 수 있다는 것 내포
+attribute 는  html document    
+property 는  html Dom tree 안에서 존재합니다.  
+이것이 뜻하는 것   
+attribute 는 정적으로 변하지 않고 ,   
+property 는 동적으로 그 값이 변할 수 있다는 것 내포  
