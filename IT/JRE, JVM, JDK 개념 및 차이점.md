@@ -1,5 +1,6 @@
 
-## JRE, JVM, JDK
+## JRE, JVM, JDK 개념 및 차이점
+<br><br>
 
 1. JVM 
 
@@ -14,7 +15,7 @@ JVM 은 자바 소스코드로부터 만들어지는 자바 바이너리 파일(
 - 바이너리 코드를 검증한다.  
 - 바이너리 코드를 실행한다.  
 - 실행환경의 규격을 제공한다.(필요한 라이브러리 및 기타파일)  
-
+<br><br>
 
 2. JRE
 
@@ -24,7 +25,7 @@ JRE 는 JVM 의 실행환경을 구현했다고 할수 있음
 
 
 ![JRE2](https://user-images.githubusercontent.com/89206108/173379608-3e291008-18dd-4ca8-897e-f4cacef7ebbb.JPG)
-
+<br><br>
 
 3. JDK
 
