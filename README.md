@@ -32,3 +32,6 @@
   
 </details>    
 
+# IT 용어정리
+- [IT 용어정리](https://github.com/dbsghk208/Study/tree/main/IT)
+
