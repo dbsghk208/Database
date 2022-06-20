@@ -36,7 +36,7 @@
 
 # javascript
 <details>
-    <summary>객체지향방법론</summary>
+    <summary> js 종류 </summary>
 
 - [Polymer.js](https://github.com/dbsghk208/Study/tree/main/Javascript/Polymer.js)    
 - [Nexacro](https://github.com/dbsghk208/Study/tree/main/Javascript/nexacro)  
