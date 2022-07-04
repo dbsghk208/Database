@@ -2,7 +2,7 @@
 ## 2022.07.04
 로컬이 있을때 Lunch 아이콘 클릭
 
-<br><br>
+<br>
 
 Launch 
 
@@ -17,4 +17,9 @@ Quick View
 Project Explorer가 활성화된 상태에서 선택된 트리 아이템이 Form 파일일 경우에도  
 QuickView를 실행할 수 있습니다.  
 
+<br>
 
+
+참고사이트  
+
+http://docs.tobesoft.com/development_tools_guide_nexacro_17_ko#3ec343bd3f0692c0
