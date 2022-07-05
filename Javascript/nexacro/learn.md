@@ -23,3 +23,12 @@ QuickView를 실행할 수 있습니다.
 참고사이트  
 
 http://docs.tobesoft.com/development_tools_guide_nexacro_17_ko#3ec343bd3f0692c0
+
+
+
+
+## 2022.07.05
+
+<순서>
+
+넥사크로 검색 조건(데이터셋) > Controller > serviceImpl > xml > serviceImpl > Controller > 넥사크로 그리드
