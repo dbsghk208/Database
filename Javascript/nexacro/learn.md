@@ -25,10 +25,20 @@ QuickView를 실행할 수 있습니다.
 http://docs.tobesoft.com/development_tools_guide_nexacro_17_ko#3ec343bd3f0692c0
 
 
-
+<br><br>
 
 ## 2022.07.05
 
 <순서>
 
 넥사크로 검색 조건(데이터셋) > Controller > serviceImpl > xml > serviceImpl > Controller > 넥사크로 그리드
+
+<br>
+
+그리드를 만든다음 그리드 자체는 어떤 데이터를 넣을지 모르니깐 
+넥사크로에서 데이터셋을 설정을 해주고(그리드에 들어갈 칼럼을 일일이 데이터셋에 만들어준다. )
+
+그러면 그리드와 데이터셋 맵핑은 properties > binding  > binddataset 에 맵핑시켜준다.
+
+
+
