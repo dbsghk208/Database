@@ -105,9 +105,42 @@ svnserve 라는 svn 서버를 설치하면 된다.
   자신이 몇일 전 까지에 한해 작업한 내역은 확인 가능하지만 버전관리가 되지는 않음  
   
   
+<br><br> 
   
+## SVN 사용방법
   
+  1. TortoiseSVN 설치 
   
+  2. 탐색기에서 작업할 폴더를 선택하고 마우스 우클릭하여   
+    [TortoiseSVN] -> [TortoiseSVN Repository Browser] 주소를 입력한다.  
+    svn://아이피/svn/trunk/주소
+  
+  3. 팝업창 폴더에서 해당 오브젝트를 선택 > 우클릭 > Checkout 메뉴 선택
+  
+  4. SVN 에 저장되어 있는 폴더와 파일들이 현재 디렉토리에 생성됨.
+  
+  5. 생성된 폴더에서 우클릭 > SVN Update를 누르면 다른 사람이 Commit 한 내용을 가져올 수 있음
+  
+  <br>
+  
+&nbsp;&nbsp;&nbsp;이클립스에서 update 하는 방법     
+&nbsp;&nbsp;&nbsp;-> synchronize 탭에서 해당 프로젝트에서 우클릭 > synchronize 클릭  
+&nbsp;&nbsp;&nbsp;&nbsp;그러면 해당 목록들 다 나옴   
+&nbsp;&nbsp;&nbsp;&nbsp;프로젝트명에서 우클릭 > update 클릭하면 변경내역(다른분들 작업한 내역)   
+&nbsp;&nbsp;&nbsp;&nbsp;다 업데이트 할 수 있음  
+  
+&nbsp;&nbsp;&nbsp;**update 아이콘**  
+  
+&nbsp;&nbsp;&nbsp;<img src= "https://user-images.githubusercontent.com/89206108/177898540-7a44d0bb-0248-48d8-9144-44f1d28919bf.png" width="50" height="50">
+
+ <br> 
+  
+  6. 생성된 폴더에서 우클릭 > SVN Commit 을 누르면 본인이 수정한 파일 SVN 서버에 업로드 할 수 있음
+  
+&nbsp;&nbsp;&nbsp;**commit 아이콘**  
+  
+&nbsp;&nbsp;&nbsp;<img src= "https://user-images.githubusercontent.com/89206108/177898771-fdf69e00-74cd-4f42-95e3-d36fe8eab697.png" width="50" height="50">
+ 
   
   
   
