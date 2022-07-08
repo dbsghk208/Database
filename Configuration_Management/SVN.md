@@ -126,8 +126,7 @@ svnserve 라는 svn 서버를 설치하면 된다.
 &nbsp;&nbsp;&nbsp;이클립스에서 update 하는 방법     
 &nbsp;&nbsp;&nbsp;-> synchronize 탭에서 해당 프로젝트에서 우클릭 > synchronize 클릭  
 &nbsp;&nbsp;&nbsp;&nbsp;그러면 해당 목록들 다 나옴   
-&nbsp;&nbsp;&nbsp;&nbsp;프로젝트명에서 우클릭 > update 클릭하면 변경내역(다른분들 작업한 내역)   
-&nbsp;&nbsp;&nbsp;&nbsp;다 업데이트 할 수 있음  
+&nbsp;&nbsp;&nbsp;&nbsp;프로젝트명에서 우클릭 > update 클릭하면 변경내역(다른분들 작업한 내역) 다 업데이트 할 수 있음  
   
 &nbsp;&nbsp;&nbsp;**update 아이콘**  
   
@@ -136,6 +135,12 @@ svnserve 라는 svn 서버를 설치하면 된다.
  <br> 
   
   6. 생성된 폴더에서 우클릭 > SVN Commit 을 누르면 본인이 수정한 파일 SVN 서버에 업로드 할 수 있음
+ 
+  <br>  
+  
+&nbsp;&nbsp;&nbsp;이클립스에서 commit 하는 방법     
+&nbsp;&nbsp;&nbsp;->변경된 파일에서 우클릭 > commit 클릭   
+
   
 &nbsp;&nbsp;&nbsp;**commit 아이콘**  
   
