@@ -54,7 +54,15 @@ http://docs.tobesoft.com/development_tools_guide_nexacro_17_ko#3ec343bd3f0692c0
 Application 영역에 정의된 Dataset 의 데이터를 갱신하기 위한 서비스를 호출하고,   
 트랜잭션이 완료되면 콜백함수를 실행하는 메소드
 
+<br>
 
+
+## 2022.07.09
+
+
+**transaction** 
+
+ transaction 메소드를 사용해 실제 서버에서 데이터를 가져
 
 
 
