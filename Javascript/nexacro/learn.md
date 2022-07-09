@@ -62,7 +62,20 @@ Application 영역에 정의된 Dataset 의 데이터를 갱신하기 위한 서
 
 **transaction** 
 
- transaction 메소드를 사용해 실제 서버에서 데이터를 가져
+transaction 메소드를 사용해 실제 서버에서 데이터를 가져온다  
+데이터 저장소에 저장된 데이터를 가져오거나 갱신하는 메소드로  
+Dataset에 데이터를 담아 서비스를 호출하고 완료시 콜백함수를 수행한다.
+
+트랜잭션 메소드는 주로 Form 오브젝트의 메소드를 사용한다.  
+하지만 Appvariables와 연계해 사용해야 할 때에는 Application 오브젝트의 메서드를 사용한다.  
+
+트랜잭션 사용을 위해 넥사크로 X-API 를 서버에 추가해야 한다.  
+넥사크로는 Java 기반과 .net 기반의 서버 모듈을 지원하며  
+기술지원 사이트에서 각 제품에 맞는 모듈을 다운로드 할수 있다.  
+
+
+참조사이트  
+https://www.playnexacro.com/#show:learn:4552
 
 
 
