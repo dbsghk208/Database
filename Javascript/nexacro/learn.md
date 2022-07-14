@@ -86,3 +86,38 @@ https://www.playnexacro.com/#show:learn:4552
 - 트랜잭션이란 버튼 클릭 이벤트에 수작업으로 데이터를 추가하는 대신 xml 파일에 접근해서 데이터를 가져오는 코드를 추가한다.
 - 콜백함수란 트랜잭션 메소드가 수행된 후 지정된 콜백함수를 실행한다.
 
+<br>
+
+
+## 2022.07.13
+
+<넥사크로에서 사용자함수 function 구역 사용이유>
+
+이벤트 처럼 따로 모션이 정해져 있지 않기때문에   
+**사용자가 function구역에 임의의 메소드를 만든다.    
+실행되는 코드도 그 메소드 안에 짜놓는다.**  
+
+<br>
+
+## 2022.07.14
+
+<setColumn, getColumn>
+
+
+- setColumn
+
+this.데이터셋명.setColmn(열숫자, 칼럼명, 바꿀값);
+
+
+- getColumn
+
+this.데이터셋명.getColmn(열숫자, 칼럼명);
+
+
+
+참조사이트
+
+https://flatsun.tistory.com/445
+
+
+<br>
