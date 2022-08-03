@@ -1,6 +1,8 @@
 
 ## 2022.08.03
 
+<br>
+
 ```sql
   SELECT TO_CHAR(SYSDATE, 'YYYY') - LEVEL + t.max_yaer AS code
         ,TO_CHAR(SYSDATE, 'YYYY') - LEVEL + t.max_yaer AS name
@@ -27,7 +29,7 @@
         CONNECT BY LEVEL <= ((TO_CHAR(SYSDATE, 'YYYY') + t.max_yaer) - t.start_year) 
         ;
 ```
-
+<br>
 
 
 ```sql
